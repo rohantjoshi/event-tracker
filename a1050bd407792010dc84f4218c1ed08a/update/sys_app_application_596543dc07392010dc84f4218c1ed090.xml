@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 12:11:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>596543dc07392010dc84f4218c1ed090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>event-tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="event-tracker" source="x_124221_event_tra">a1050bd407792010dc84f4218c1ed08a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="event-tracker">a1050bd407792010dc84f4218c1ed08a</sys_scope>
+        <sys_update_name>sys_app_application_596543dc07392010dc84f4218c1ed090</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 12:11:33</sys_updated_on>
+        <title>event-tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
